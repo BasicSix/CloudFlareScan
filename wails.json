@@ -1,0 +1,19 @@
+{
+  "name": "cf-scanner",
+  "outputfilename": "CloudFlareScan",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "xiaolin-007",
+    "email": ""
+  },
+  "info": {
+    "companyName": "小琳解说",
+    "productName": "CloudFlareScan",
+    "productVersion": "5.0",
+    "copyright": "Copyright © 2026 xiaolin-007",
+    "comments": ""
+  }
+}
